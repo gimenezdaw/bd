@@ -1,4 +1,4 @@
-SEQUENCIAL - (clasico) - EN CASCADA
+********************   SEQUENCIAL - (clasico) - EN CASCADA ---------------------------------------------------------------------------------
                                     Comienza la informatica
 REALIDAD -> ANALISIS DE REQUISITOS -> ANALISIS CONCEPTUAL -> DISSEÑO -> IMPLEMENTACION -> PROD. SOFTWARE -> mANTENIMENT
          -> documentacion con requisitos
@@ -8,12 +8,22 @@ Un mal entenidod en las fases iniciales lo detectas cuando ya esta implantado el
 El defecto estructral es que los malentendidos y los errores se corrigen tarde produciendo el famoso efecto BOLA DE NIEVE
 
 
-DEGENERACION PARADIGMA CLASICO 
+********************    DEGENERACION PARADIGMA CLASICO --------------------------------------------------------------------------------
 
 REALIDAD -> ANALISIS DE REQUISITOS -> ANALISIS CONCEPTUAL -> DISSEÑO -> IMPLEMENTACION -> PROD. SOFTWARE -> MANTENIMIENTO
 
 Cuando se dectetam los problemas en el man tenimiento si aplican parches antes de la implementacion para seguir con las etapas
 
-PRUEBAS UNITARIAS Y DE INTEGRACION
+********************    PRUEBAS UNITARIAS Y DE INTEGRACION --------------------------------------------------------------------------
 
-REALIDAD -> ANALISIS DE REQUISITOS -> ANALISIS CONCEPTUAL -> DISSEÑO -> IMPLEMENTACION -> PRUEBAS UNITARIAS ->
+REALIDAD -> ANALISIS DE REQUISITOS -> ANALISIS CONCEPTUAL -> DISSEÑO -> IMPLEMENTACION -> PRUEBAS UNITARIAS -> PRUEBAS DE INTERGACION -> MANTENIMIENTO
+                                        -> cada unidad se software es correcta
+                                        -> SE VUELVE A LA ETAPA QUE HAGA FALTA SI NO FUNCIONA
+
+********************    LA ANTIGUA BIFURCACION QUE SE PRODUCE ENTRE ESTATICA Y DINAMICA -----------------------------------------------------------------
+                                    (actualmente ya no se produce)
+            
+REALIDAD -> ANALISIS DE REQUISITOS  -> PERSPECTIVA ESTATICA -> ANALISIS CONCEPTUAL 
+                                    -> PERSPECTIVA DINAMICA -> IMPLEMENTACION ->
+
+ESTUDIO DE VIABILIDAD -> IMPLANTACION -> PRODUCTO SOFTWARE 
