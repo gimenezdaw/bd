@@ -23,7 +23,9 @@ REALIDAD -> ANALISIS DE REQUISITOS -> ANALISIS CONCEPTUAL -> DISSEÑO -> IMPLEME
 ********************    LA ANTIGUA BIFURCACION QUE SE PRODUCE ENTRE ESTATICA Y DINAMICA -----------------------------------------------------------------
                                     (actualmente ya no se produce)
             
-REALIDAD -> ANALISIS DE REQUISITOS  -> PERSPECTIVA ESTATICA -> ANALISIS CONCEPTUAL 
-                                    -> PERSPECTIVA DINAMICA -> IMPLEMENTACION ->
+                                            "LA FOTO" / orientada a BD
+REALIDAD -> ANALISIS DE REQUISITOS  -> PERSPECTIVA ESTATICA -> ANALISIS CONCEPTUAL (DIAGRAMA E/R) -> DISEÑO LOGICO (ESQUEMA LOGICO) -> IMPLEMENTACION (SQL) -> BASE DE DATOS ->MANTENIMIENTO BD
+                                    -> PERSPECTIVA DINAMICA -> ..........
+                                            "PROCESOS" 
 
 ESTUDIO DE VIABILIDAD -> IMPLANTACION -> PRODUCTO SOFTWARE 
