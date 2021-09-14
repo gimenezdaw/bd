@@ -1,0 +1,19 @@
+SEQUENCIAL - (clasico) - EN CASCADA
+                                    Comienza la informatica
+REALIDAD -> ANALISIS DE REQUISITOS -> ANALISIS CONCEPTUAL -> DISSEÑO -> IMPLEMENTACION -> PROD. SOFTWARE -> mANTENIMENT
+         -> documentacion con requisitos
+                                    -> documentacion de analisis
+cUAL ES LA PEGA DEL CICLO DE VIDA SEQUENCIAL???
+Un mal entenidod en las fases iniciales lo detectas cuando ya esta implantado el producto software y se esta haciendo el mantenimiento, por lo que cuando se detecta ya es un problema muy grande.
+El defecto estructral es que los malentendidos y los errores se corrigen tarde produciendo el famoso efecto BOLA DE NIEVE
+
+
+DEGENERACION PARADIGMA CLASICO 
+
+REALIDAD -> ANALISIS DE REQUISITOS -> ANALISIS CONCEPTUAL -> DISSEÑO -> IMPLEMENTACION -> PROD. SOFTWARE -> MANTENIMIENTO
+
+Cuando se dectetam los problemas en el man tenimiento si aplican parches antes de la implementacion para seguir con las etapas
+
+PRUEBAS UNITARIAS Y DE INTEGRACION
+
+REALIDAD -> ANALISIS DE REQUISITOS -> ANALISIS CONCEPTUAL -> DISSEÑO -> IMPLEMENTACION -> PRUEBAS UNITARIAS ->
